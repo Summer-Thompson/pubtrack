@@ -21,12 +21,12 @@ settings:
   openalex_cadence: weekly
 
 authors:
-  - id: weiskittel
-    name: Aaron R. Weiskittel
-    surname: Weiskittel
-    scholar_id: e7z1aLEAAAAJ
-    orcid: 0000-0003-2534-4478
-    openalex_id: A5011502228
+  - id: slthompson
+    name: Summer L. Thompson
+    surname: Thompson
+    scholar_id: lNfGKHwAAAAJ
+    orcid: 0000-0003-1922-1201
+    openalex_id: A5076408885
     first_year: 0
     scholar_cadence: weekly
     group: self
